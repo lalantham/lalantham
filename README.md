@@ -1,4 +1,4 @@
-### Hi there, I'm Jesse - aka [codeSTACKr][website] 👋
+### Hi there, I'm [Lalantha Madhushan][website] 👋
 
 [![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://lalantha.live/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://www.facebook.com/lalanthamadushan82/)
@@ -13,7 +13,7 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/mf32vr1k37829nru67ngaoobf)
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Lalantha Spotify Playing" width="350" />](https://open.spotify.com/user/mf32vr1k37829nru67ngaoobf)
 
 ### Connect with me:
 
