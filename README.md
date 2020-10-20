@@ -5,7 +5,7 @@
 
 ## I'm a B.Tech. Student, Technophile, Linux Lover!!
 
-- 🔭 I just launched my first website: [TechFYOnline!][https://techfyonline.com/]!
+- 🔭 I just launched my first website: [TechFYOnline!][website]!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking for job opportunity for gain new knowledge and improve my skills
 - 🥅 2020 Goals: Find Job Opportunity fits for me
