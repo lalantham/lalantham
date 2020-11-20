@@ -1,7 +1,7 @@
 ### Hi there, I'm [Lalantha Madhushan][website] 👋
 
 [![Website](https://img.shields.io/badge/Website-Lalantha-green)](https://lalantha.live/)
-[![](https://komarev.com/ghpvc/?username=lalantham&color=red)
+![](https://komarev.com/ghpvc/?username=lalantham&color=red)
 
 ## I'm a B.Tech. Student, Technophile, Linux Lover!!
 
