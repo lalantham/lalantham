@@ -3,6 +3,8 @@
 [![Website](https://img.shields.io/badge/Website-Lalantha-green)](https://lalantha.live/)
 [![Twitter Follow](https://img.shields.io/badge/Lalantha-Madhshan-blue)](https://www.facebook.com/lalanthamadushan82/)
 
+![](https://komarev.com/ghpvc/?username=lalantham&color=red)
+
 ## I'm a B.Tech. Student, Technophile, Linux Lover!!
 
 - 🔭 I just launched my first website: [TechFYOnline!][website]!
