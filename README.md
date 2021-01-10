@@ -1,11 +1,11 @@
 ### Hi there, I'm [Lalantha Madhushan][website] 👋
 
-[![Website](https://img.shields.io/badge/Website-Lalantha-green)](https://lalantha.live/)
+[![Website](https://img.shields.io/badge/Website-Lalantha-green)](https://lalantha.me/)
 ![](https://komarev.com/ghpvc/?username=lalantham&color=red)
 
 ## I'm a B.Tech. Student, Technophile, Linux Lover!!
 
-- 🔭 I just launched my first website: [TechFYOnline!][website]!
+- 🔭 I just launched my new website: [MickySSH!][website1]!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking for job opportunity for gain new knowledge and improve my skills
 - 🥅 2020 Goals: Find Job Opportunity fits for me
@@ -17,7 +17,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="lalantha.live" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="lalantha.me" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][
 [<img align="left" alt="TechFYOnlne" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website1]
 [<img align="left" alt="Lalantha Madhushan | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="Lalantha Madhushan | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
@@ -62,19 +62,19 @@
 - [Apt Packge Manager](https://github.com/lalantham/apt-pkg-manager)
 <!-- BLOG-POST-LIST:END -->
 
-➡️ [more...](https://lalantha.live/)
+➡️ [more...](https://lalantha.me/)
 
 ---
 
 <summary>:zap: GitHub Stats</summary>
 <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=lalantham&show_icons=true&hide_border=true" />
 
-[website]: https://lalantha.live/
-[website1]: https://techfyonline.com/
+[website]: https://lalantha.me/
+[website1]: https://mickyssh.github.io/
 [twitter]: https://twitter.com/lalantham82
 [youtube]: https://www.youtube.com/channel/UCv09kbldjSWze-SJ6GdqkDA?view_as=subscriber
 [linkedin]: https://www.linkedin.com/in/lalantha-madhushan/
-[webdevplaylist]: https://lalantha.live/
-[jsplaylist]: https://lalantha.live/
-[cssplaylist]: https://lalantha.live/
-[reactplaylist]: https://lalantha.live/
+[webdevplaylist]: https://lalantha.me/
+[jsplaylist]: https://lalantha.me/
+[cssplaylist]: https://lalantha.me/
+[reactplaylist]: https://lalantha.me/
