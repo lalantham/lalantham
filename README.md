@@ -70,7 +70,7 @@
 <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=lalantham&show_icons=true&hide_border=true" />
 
 [website]: https://lalantha.me/
-[website1]: https://mickyssh.github.io/
+[website1]: https://mickyssh.me/
 [twitter]: https://twitter.com/lalantham82
 [youtube]: https://www.youtube.com/channel/UCv09kbldjSWze-SJ6GdqkDA?view_as=subscriber
 [linkedin]: https://www.linkedin.com/in/lalantha-madhushan/
