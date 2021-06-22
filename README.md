@@ -66,8 +66,9 @@
 
 ---
 
-<summary>:zap: GitHub Stats</summary>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lalantham)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/MartinHeinz/MartinHeinz">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=lalantham&show_icons=true&line_height=27&count_private=true&title_color=000000&text_color=000000&icon_color=000000&bg_color=ffffff" alt="Lalantha's GitHub Stats" />
+</a>
 
 [website]: https://lalantha.me/
 [website1]: https://mickyssh.me/
