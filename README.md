@@ -8,7 +8,7 @@
 - 🔭 I just launched my new website: [MickySSH!][website1]!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking for job opportunity for gain new knowledge and improve my skills
-- 🥅 2020 Goals: Find Job Opportunity fits for me
+- 🥅 2021 Goals: Find Job Opportunity fits for me
 - ⚡ Fun fact: I love to listen songs and watch movies
 
 ### Spotify Playing 🎧
@@ -67,7 +67,7 @@
 ---
 
 <summary>:zap: GitHub Stats</summary>
-<img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=lalantham&show_icons=true&hide_border=true" />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lalantham)](https://github.com/anuraghazra/github-readme-stats)
 
 [website]: https://lalantha.me/
 [website1]: https://mickyssh.me/
