@@ -3,6 +3,9 @@
 [![Website](https://img.shields.io/badge/Website-Lalantha-green)](https://lalantha.me/)
 ![](https://komarev.com/ghpvc/?username=lalantham&color=red)
 
+<!-- Any image aligned to the right. Beware the width -->
+<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+
 ## I'm a B.Tech. Student, Technophile, Linux Lover!!
 
 - 🔭 I just launched my new website: [MickySSH!][website1]!
@@ -10,6 +13,14 @@
 - 👯 I’m looking for job opportunity for gain new knowledge and improve my skills
 - 🥅 2021 Goals: Find Job Opportunity fits for me
 - ⚡ Fun fact: I love to listen songs and watch movies
+
+<!-- Your github readme stats
+You can use this api: https://github.com/anuraghazra/github-readme-stats
+-->
+<p>
+  <a href="https://github.com/kaviya-admin/handle-path-oz">
+    <img width="55%" align="right" alt="lalantha's github stats" src="https://github-readme-stats.vercel.app/api?username=lalantham&show_icons=true&hide_border=true" />
+  </a>
 
 ### Spotify Playing 🎧
 
@@ -65,10 +76,6 @@
 ➡️ [more...](https://lalantha.me/)
 
 ---
-
-<a href="https://github.com/MartinHeinz/MartinHeinz">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=lalantham&show_icons=true&line_height=27&count_private=true&title_color=000000&text_color=000000&icon_color=000000&bg_color=ffffff" alt="Lalantha's GitHub Stats" />
-</a>
 
 [website]: https://lalantha.me/
 [website1]: https://mickyssh.me/
