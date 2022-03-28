@@ -22,10 +22,6 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
     <img width="55%" align="right" alt="lalantha's github stats" src="https://github-readme-stats.vercel.app/api?username=lalantham&show_icons=true&hide_border=true" />
   </a>
 
-### Spotify Playing 🎧
-
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Lalantha Spotify Playing" width="350" />](https://open.spotify.com/user/mf32vr1k37829nru67ngaoobf)
-
 ### Connect with me:
 
 [<img align="left" alt="Lalantha Madhushan" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
