@@ -18,7 +18,7 @@
 You can use this api: https://github.com/anuraghazra/github-readme-stats
 -->
 <p>
-  <a href="https://github.com/kaviya-admin/handle-path-oz">
+  <a href="https://github.com/lalantham">
     <img width="55%" align="right" alt="lalantha's github stats" src="https://github-readme-stats.vercel.app/api?username=lalantham&show_icons=true&hide_border=true" />
   </a>
 
