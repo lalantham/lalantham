@@ -8,7 +8,7 @@
 
 ## I'm a B.Tech. Student, Technophile, Linux Lover!!
 
-- 🔭 I just launched my new website: [My Blog!][website1]!
+- 🔭 I just launched my new blog: [My Blog!][website1]
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2023 Goals: Complete My Digree
 - ⚡ Fun fact: I love to listen songs and watch movies
@@ -43,32 +43,6 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 
 <br />
 <br />
-
----
-
-### 📺 Latest YouTube Videos
-
-<!-- YOUTUBE:START -->
-- [Windows 10 Drak Theme With Custom Icon (Sinhala)](https://www.youtube.com/watch?v=gsikDPUtudk)
-- [How to download Uptobox Link Without Time Limit And Torrent Direct Download)](https://www.youtube.com/watch?v=xp1CVwc5Ieg)
-- [Extend seedr.cc free space](https://www.youtube.com/watch?v=xJ8DDkmyFZM)
-<!-- YOUTUBE:END -->
-
-➡️ [more videos...](https://www.youtube.com/channel/UCv09kbldjSWze-SJ6GdqkDA?view_as=subscriber)
-
----
-
-### 📕 Latest Blog Posts & CheatSheets
-
-<!-- BLOG-POST-LIST:START -->
-- [Create Dropbear/Stunnel Server (Manual)](https://docs.google.com/document/d/16JLeM56Ax-CGiGXmZ1TQPUaKHT_70KwunvSW3Ag1OcQ/edit?usp=sharing)
-- [Create Fully Featured SSH Server (AutoScript)](https://github.com/lalantham/ssh-server)
-- [Configure Apache on Linux](https://github.com/lalantham/web-server-linux)
-- [Install Wordpress on Linux](https://github.com/lalantham/install-wordpress)
-- [Apt Packge Manager](https://github.com/lalantham/apt-pkg-manager)
-<!-- BLOG-POST-LIST:END -->
-
-➡️ [more...](https://lalantha.me/)
 
 ---
 
