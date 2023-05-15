@@ -8,10 +8,9 @@
 
 ## I'm a B.Tech. Student, Technophile, Linux Lover!!
 
-- 🔭 I just launched my new website: [MickySSH!][website1]!
+- 🔭 I just launched my new website: [My Blog!][website1]!
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking for job opportunity for gain new knowledge and improve my skills
-- 🥅 2021 Goals: Find Job Opportunity fits for me
+- 🥅 2023 Goals: Complete My Digree
 - ⚡ Fun fact: I love to listen songs and watch movies
 
 <!-- Your github readme stats
@@ -25,7 +24,7 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 ### Connect with me:
 
 [<img align="left" alt="Lalantha Madhushan" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="MickySSH" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website1]
+[<img align="left" alt="Blog" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website1]
 [<img align="left" alt="Lalantha Madhushan | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="Lalantha Madhushan | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Lalantha Madhushan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
@@ -73,12 +72,12 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 
 ---
 
-[website]: https://lalantha.me/
-[website1]: https://mickyssh.me/
+[website]: https://lalantha.com/
+[website1]: https://blog.lalantha.com/
 [twitter]: https://twitter.com/lalantham82
 [youtube]: https://www.youtube.com/channel/UCv09kbldjSWze-SJ6GdqkDA?view_as=subscriber
 [linkedin]: https://www.linkedin.com/in/lalantha-madhushan/
 [webdevplaylist]: https://lalantha.me/
-[jsplaylist]: https://lalantha.me/
-[cssplaylist]: https://lalantha.me/
-[reactplaylist]: https://lalantha.me/
+[jsplaylist]: https://lalantha.com/
+[cssplaylist]: https://lalantha.com/
+[reactplaylist]: https://lalantha.com/
