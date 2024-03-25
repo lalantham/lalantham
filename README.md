@@ -51,7 +51,7 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 [twitter]: https://twitter.com/lalantham82
 [youtube]: https://www.youtube.com/channel/UCv09kbldjSWze-SJ6GdqkDA?view_as=subscriber
 [linkedin]: https://www.linkedin.com/in/lalantha-madhushan/
-[webdevplaylist]: https://lalantha.me/
+[webdevplaylist]: https://lalantha.com/
 [jsplaylist]: https://lalantha.com/
 [cssplaylist]: https://lalantha.com/
 [reactplaylist]: https://lalantha.com/
