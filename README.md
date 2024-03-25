@@ -6,7 +6,7 @@
 <!-- Any image aligned to the right. Beware the width -->
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-## I'm a B.Tech. Student, Technophile, Linux Lover!!
+## I'm a B.Tech, Cloud Engineer, Technophile, Linux Lover!!
 
 - 🔭 I just launched my new blog: [My Blog!][website1]
 - 🌱 I’m currently learning everything 🤣
