@@ -1,6 +1,6 @@
 ### Hi there, I'm [Lalantha Madhushan][website] 👋
 
-[![Website](https://img.shields.io/badge/Website-Lalantha-green)](https://lalantha.me/)
+[![Website](https://img.shields.io/badge/Website-Lalantha-green)](https://lalantha.com/)
 ![](https://komarev.com/ghpvc/?username=lalantham&color=red)
 
 <!-- Any image aligned to the right. Beware the width -->
