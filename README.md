@@ -9,7 +9,7 @@
 ## I'm a B.Tech, Cloud Engineer, Technophile, Linux Lover!!
 
 - 🔭 I just launched my new blog: [My Blog!][website1]
-- 🔭 I launched my new tech wiki: [My Blog!][website2]
+- 🔭 I launched my new tech wiki: [My Wiki!][website2]
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2023 Goals: Complete My Digree
 - ⚡ Fun fact: I love to listen songs and watch movies
