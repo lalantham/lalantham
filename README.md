@@ -9,6 +9,7 @@
 ## I'm a B.Tech, Cloud Engineer, Technophile, Linux Lover!!
 
 - 🔭 I just launched my new blog: [My Blog!][website1]
+- 🔭 I launched my new tech wiki: [My Blog!][website2]
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2023 Goals: Complete My Digree
 - ⚡ Fun fact: I love to listen songs and watch movies
@@ -47,7 +48,8 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 ---
 
 [website]: https://lalantha.com/
-[website1]: https://blog.lalantha.com/
+[website1]: https://infratuned.com/
+[website2]: https://wiki.lalantha.com/
 [twitter]: https://twitter.com/lalantham82
 [youtube]: https://www.youtube.com/channel/UCv09kbldjSWze-SJ6GdqkDA?view_as=subscriber
 [linkedin]: https://www.linkedin.com/in/lalantha-madhushan/
